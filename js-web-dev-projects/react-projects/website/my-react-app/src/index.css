@@ -1,0 +1,47 @@
+/* .Card{
+  max-width: 250px;
+  border: 2px solid red;
+  margin: 20px 20px;
+  text-align: center;
+  border-radius: 20px;
+  background-color: pink;
+  box-shadow: 4px 4px hsl(0, 3%, 31%);
+} */
+/* 
+.color-picker-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black; 
+  max-width: 300px;
+}
+
+.color-show{
+  width: 70%;
+  height: 200px;
+  border: 2px solid grey;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.color-picker-container label{
+  margin: 20px;
+  font-weight: bold;
+  font-size: 1.5rem;
+} */
+
+
+
+.sub-container{
+  border: 2px solid red;
+  border-radius: 10px;
+  width: 250px;
+  background-color: pink;
+}
+.sub-container h1{
+  text-align: center;
+}
