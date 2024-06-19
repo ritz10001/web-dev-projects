@@ -1,0 +1,62 @@
+body{
+  background-color: hsl(0, 0%, 11%);
+}
+
+.list-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  background-color: white;
+  border-radius: 10px; 
+ 
+
+}
+.list-container li{
+  margin-left: 20px;
+  margin-right: 100px;
+}
+.main-container h1{
+  color: white;
+  
+}
+
+.main-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.sub-container input, button{
+  font-size: 1.5rem;
+  border-radius: 5px;
+  padding: 10px;
+}
+.sub-container button{
+  background-color: hsl(120, 96%, 41%);
+  color: white;
+  font-weight: bold;
+}
+
+#delete-btn{
+  background-color: red;
+  color: white;
+  font-size: 1.2rem;
+  border-radius: 5px;
+  border: none;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 5px;
+}
+
+#swap-up-btn, #swap-down-btn{
+  background-color: hsl(218, 100%, 50%);
+  border: none;
+  font-size: 1.2rem;
+  border-radius: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 5px;
+}
